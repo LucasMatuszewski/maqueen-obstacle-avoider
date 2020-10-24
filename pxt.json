@@ -1,0 +1,21 @@
+{
+    "name": "Obstacle Avoider",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "MaqueenPlus": "github:dfrobot/pxt-dfrobot-maqueenplus#v1.3.4"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
